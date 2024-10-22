@@ -1,2 +1,4 @@
 # The Atlas of Koholint Island
  A project to create an atlas for The Legend of Zelda: Link's Awakening.
+
+This project explicitly utilizes only official Nintendo software to obtain source images for the composits. Screenshots were obtained legitimately using only functionality built into the Nintendo Switch, and NSO service. Composites themselves are created manually in Blender from at least two screenshots each. This is a passion project of mine to manually create a full game map of Koholint without going subverting the permissions Nintendo has granted to users by explicitly allowing the creation, sharing, and editing of screenshots.
